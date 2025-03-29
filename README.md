@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on AI voice assistance to learn different languages in world<br>👯 I’m looking to collaborate for backend developers<br>🤝 I’m looking for help with react.js<br>🌱 I’m currently learning Node.js / DSA<br>⚡ Fun fact : i always take help of an AI
+
 
 
 ## 🌐 Socials:
